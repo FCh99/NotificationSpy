@@ -1,2 +1,2 @@
 # NotificationSpy
-Currently unfinishedwork: captures notifications with a Service implementing onNotificationListenerService and printing them to screen. The current issue is that it works and show no errors, but it does not show any notificatio, not sure why maybe it is because I am not receiving notifications at all ¡¡
+Currently unfinished but you can load it and shows no errors: captures notifications with a Service implementing onNotificationListenerService and printing them to screen. The current issue is that it works and show no errors upon launching nor on debugging, but it does not show any notification on screen...maybe it is because I am not receiving notifications at all during the launching of the app ¡¡
